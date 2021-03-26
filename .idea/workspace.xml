@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0730ff7f-318e-4234-bc7a-bf00ee291c6a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/task/AsyncMaterialTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/src/main/java/com/zcl/utils/IPUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../common/src/main/java/com/zcl/utils/IPUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../design/src/test/java/com/zcl/DesignApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../design/src/test/java/com/zcl/DesignApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hardware/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/HardwareApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/HardwareApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/pojo/SysAtta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hardware/src/main/java/com/zfsoft/pojo/SysAtta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hardware/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../hardware/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tools\Maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1qBrT30EAT82P0jDpbTWrwQhvMB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zcl.App" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0730ff7f-318e-4234-bc7a-bf00ee291c6a" name="Default Changelist" comment="" />
+      <created>1616563828838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616563828838</updated>
+      <workItem from="1616563834334" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="11" y="14" width="1355" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616564027346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="11" y="14" width="1355" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1616564027346" />
+    <state width="1313" height="216" key="GridCell.Tab.0.bottom" timestamp="1616564830375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616564830375" />
+    <state width="1313" height="216" key="GridCell.Tab.0.center" timestamp="1616564830375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616564830375" />
+    <state width="1313" height="216" key="GridCell.Tab.0.left" timestamp="1616564830374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616564830374" />
+    <state width="1313" height="216" key="GridCell.Tab.0.right" timestamp="1616564830375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616564830375" />
+    <state width="1313" height="284" key="GridCell.Tab.1.bottom" timestamp="1616564830362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="284" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616564830362" />
+    <state width="1313" height="284" key="GridCell.Tab.1.center" timestamp="1616564830362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="284" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616564830362" />
+    <state width="1313" height="284" key="GridCell.Tab.1.left" timestamp="1616564830361">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="284" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616564830361" />
+    <state width="1313" height="284" key="GridCell.Tab.1.right" timestamp="1616564830362">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1313" height="284" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616564830362" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1616564220946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616564220946" />
+    <state x="312" y="63" width="742" height="602" key="find.popup" timestamp="1616564411110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="312" y="63" width="742" height="602" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1616564411110" />
+    <state x="0" y="0" key="new project wizard" timestamp="1616564495373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1616564495373" />
+    <state x="255" y="159" width="840" height="1034" key="run.anything.popup" timestamp="1616564227132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="159" width="840" height="1034" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1616564227132" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zcl/rabbitmq/RabbitMQReciveA.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
